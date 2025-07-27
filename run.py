@@ -1,5 +1,5 @@
 #!/usr/bin
-🚀 Gyanam Automation Platform - FastAPI Server
+#🚀 Gyanam Automation Platform - FastAPI Server
 Serves the modern UI and N8N workflow documentation system.
 """
 

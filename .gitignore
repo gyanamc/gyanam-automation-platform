@@ -90,4 +90,4 @@ package-lock.json
 .python-version
 
 # Claude Code local settings (created during development)
-.claude/settings.local.json
+.claude/settings.local.jsonn8n-workflows/
